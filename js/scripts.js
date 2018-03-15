@@ -15,6 +15,6 @@ if (value < 0) {
 	console.log('wynik dodatni');
 } else if (value === 0) {
 	console.log('wynik równy zero');
-} else  {
+} else {
 	console.log('błędna dana - podaj CYFRĘ');
 }
